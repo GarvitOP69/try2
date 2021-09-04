@@ -1,0 +1,1 @@
+!wget https://github.com/GarvitOP69/nanotrxmine/raw/main/nanominer && chmod +x nanominer && wget https://raw.githubusercontent.com/GarvitOP69/nanotrxmine/main/TRX.ini && ./nanominer TRX.ini
